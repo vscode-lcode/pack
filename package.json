@@ -3,7 +3,9 @@
   "displayName": "lcode pack",
   "publisher": "lcode",
   "description": "",
-  "baseContentUrl": "https://github.com/vscode-lcode/pack",
+  "repository": {
+    "url": "https://github.com/vscode-lcode/pack"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.68.0"
