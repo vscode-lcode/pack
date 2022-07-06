@@ -43,6 +43,7 @@ wget -O /usr/local/bin/lcode https://github.com/vscode-lcode/lcode/releases/down
 
 ## 更多功能
 
+- [ ] 添加 ICON
 - [ ] 远程主机一键安装脚本
 - [ ] 设置: 监听端口选项
 - [ ] Windows 远程主机支持并测试
