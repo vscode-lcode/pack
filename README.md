@@ -38,7 +38,7 @@ Host *
 ### 为远程主机添加 `lcode` 命令
 
 ```sh
-wget -O /usr/local/bin/lcode https://github.com/vscode-lcode/lcode/releases/download/v0.0.2/lcode && chmod +x /usr/local/bin/lcode
+wget -O /usr/local/bin/lcode https://github.com/vscode-lcode/lcode/releases/download/v0.0.3/lcode && chmod +x /usr/local/bin/lcode
 ```
 
 ## 更多功能
