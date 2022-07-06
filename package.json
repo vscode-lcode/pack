@@ -2,6 +2,7 @@
   "name": "lpack",
   "displayName": "lcode pack",
   "publisher": "lcode",
+  "icon": "icon.png",
   "description": "",
   "repository": {
     "url": "https://github.com/vscode-lcode/pack"
