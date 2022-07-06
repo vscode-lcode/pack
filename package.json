@@ -1,0 +1,20 @@
+{
+  "name": "pack",
+  "displayName": "lcode pack",
+  "publisher": "lcode",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "lcode.hub",
+    "lcode.lwebdav"
+  ],
+  "devDependencies": {
+    "vsce": "^2.9.2"
+  }
+}
