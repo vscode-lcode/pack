@@ -30,7 +30,7 @@ Host *
   RemoteForward 127.0.0.1:4349 127.0.0.1:4349
   # 避免多次端口转发
   ControlMaster auto
-  ControlPath /tmp/ssh_control_socket_%h_%p_%r
+  ControlPath /tmp/ssh_control_socket_%lcodeh_%p_%r
   # ignore `connect_to 127.0.0.1 port 4349: failed.`
   LogLevel FATAL
 ```
@@ -43,7 +43,7 @@ wget -O /usr/local/bin/lcode https://github.com/vscode-lcode/lcode/releases/down
 
 ## 更多功能
 
-- [ ] 添加 ICON
+- [x] 添加 ICON
 - [ ] 远程主机一键安装脚本
 - [ ] 设置: 监听端口选项
 - [ ] Windows 远程主机支持并测试
